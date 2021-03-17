@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Cookies legislation & GDPR - tarteaucitron.js\n"
+"POT-Creation-Date: 2020-04-11 16:20+0200\n"
+"PO-Revision-Date: 2018-05-25 16:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tarteaucitron.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Admin.php:35
+msgid "ID or Token incorrect, you have been logged out."
+msgstr ""
+
+#: Admin.php:64
+msgid "Get the ID and Token on the \"My account\" tab"
+msgstr ""
+
+#: Admin.php:64
+msgid "View my account"
+msgstr ""
+
+#: Admin.php:66
+msgid "Login"
+msgstr ""
+
+#: Admin.php:70
+msgid "ID"
+msgstr ""
+
+#: Admin.php:74
+msgid "Token"
+msgstr ""
+
+#: Admin.php:79
+msgid "Sign up"
+msgstr ""
+
+#: Admin.php:92
+msgid "Subscription active"
+msgstr ""
+
+#: Admin.php:94
+msgid "Subscription expired (limited to 3 services)"
+msgstr ""
+
+#: Admin.php:105
+msgid "Statistics"
+msgstr ""
+
+#: Admin.php:105
+msgid "Logout"
+msgstr ""
+
+#: Admin.php:113
+msgid ""
+"Invisible services (analytics, APIs, ...) are on this page, the others "
+"(social network, comment, ads ...) need to be added with <b><a href="
+"\"widgets.php\">WordPress Widgets</a></b>"
+msgstr ""
+
+#: Sidebars.php:72
+msgid "Before"
+msgstr ""
+
+#: Sidebars.php:73
+msgid "For use before your content"
+msgstr ""
+
+#: Sidebars.php:75
+msgid "After"
+msgstr ""
+
+#: Sidebars.php:76
+msgid "For use after your content"
+msgstr ""
+
+#: Sidebars.php:80
+msgid "all content type except posts"
+msgstr ""
+
+#: Sidebars.php:82
+msgid "posts"
+msgstr ""
+
+#: Sidebars.php:93
+msgid "Unassigned"
+msgstr ""
+
+#: Sidebars.php:94
+msgid "For use with page and theme builder"
+msgstr ""
+
+#: Widgets.php:13
+msgid "Add services"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "tarteaucitron.js - Cookies legislation & GDPR"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://tarteaucitron.io/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Comply with the Cookies and GDPR legislation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "tarteaucitron.io"
+msgstr ""

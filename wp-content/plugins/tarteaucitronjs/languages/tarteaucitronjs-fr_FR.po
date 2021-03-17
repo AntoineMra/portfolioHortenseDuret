@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookies legislation & GDPR - tarteaucitron.js\n"
+"POT-Creation-Date: 2020-04-11 16:20+0200\n"
+"PO-Revision-Date: 2020-04-11 16:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tarteaucitron.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Admin.php:35
+msgid "ID or Token incorrect, you have been logged out."
+msgstr "ID ou Token incorrect, vous avez été déconnecté."
+
+#: Admin.php:64
+msgid "Get the ID and Token on the \"My account\" tab"
+msgstr "Obtenez l’ID et le Token sur l’onglet \"Mon compte\""
+
+#: Admin.php:64
+msgid "View my account"
+msgstr "Voir mon compte"
+
+#: Admin.php:66
+msgid "Login"
+msgstr "Connexion"
+
+#: Admin.php:70
+msgid "ID"
+msgstr "ID"
+
+#: Admin.php:74
+msgid "Token"
+msgstr "Token"
+
+#: Admin.php:79
+msgid "Sign up"
+msgstr "Inscription"
+
+#: Admin.php:92
+msgid "Subscription active"
+msgstr "Abonnement actif"
+
+#: Admin.php:94
+msgid "Subscription expired (limited to 3 services)"
+msgstr "Abonnement expiré (limité à 3 services)"
+
+#: Admin.php:105
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: Admin.php:105
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: Admin.php:113
+msgid ""
+"Invisible services (analytics, APIs, ...) are on this page, the others "
+"(social network, comment, ads ...) need to be added with <b><a href="
+"\"widgets.php\">WordPress Widgets</a></b>"
+msgstr ""
+"Les services invisibles (mesure d'audience, APIs, …) sont présents sur cette "
+"page, les autres (réseaux sociaux, régies publicitaires, …) sont à ajouter "
+"via <b><a href=\"widgets.php\">les Widgets WordPress</a></b>"
+
+#: Sidebars.php:72
+msgid "Before"
+msgstr "Avant"
+
+#: Sidebars.php:73
+msgid "For use before your content"
+msgstr "Pour utiliser avant vos contenus"
+
+#: Sidebars.php:75
+msgid "After"
+msgstr "Après"
+
+#: Sidebars.php:76
+msgid "For use after your content"
+msgstr "Pour utiliser après vos contenus"
+
+#: Sidebars.php:80
+msgid "all content type except posts"
+msgstr "tout type de contenu sauf les articles"
+
+#: Sidebars.php:82
+msgid "posts"
+msgstr "articles"
+
+#: Sidebars.php:93
+msgid "Unassigned"
+msgstr "Non affecté"
+
+#: Sidebars.php:94
+msgid "For use with page and theme builder"
+msgstr "Pour utiliser avec un constructeur de page"
+
+#: Widgets.php:13
+msgid "Add services"
+msgstr "Ajouter des services"
+
+#. Plugin Name of the plugin/theme
+msgid "tarteaucitron.js - Cookies legislation & GDPR"
+msgstr "tarteaucitron.js - Législation sur les cookies & RGPD"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://tarteaucitron.io/"
+msgstr "https://tarteaucitron.io/"
+
+#. Description of the plugin/theme
+msgid "Comply with the Cookies and GDPR legislation."
+msgstr "Se conformer à la législation sur les cookies et le RGPD."
+
+#. Author of the plugin/theme
+msgid "tarteaucitron.io"
+msgstr "tarteaucitron.io"
+
+#~ msgid "https://opt-out.ferank.eu/en/"
+#~ msgstr "https://opt-out.ferank.eu/fr/"
+
+#~ msgid "AIC AGENCY SAS"
+#~ msgstr "AIC AGENCY SAS"
+
+#~ msgid "https://aic.agency/"
+#~ msgstr "http://aic.agency/"
+
+#~ msgid "Email or password incorrect"
+#~ msgstr "Email ou mot de passe incorrect"
+
+#~ msgid "You need a valid account to use this plugin"
+#~ msgstr "Vous avez besoin d'un compte valide pour utiliser cette extension"
+
+#~ msgid "Email"
+#~ msgstr "Adresse de messagerie"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Cookies legislation & GDPR - tarteaucitron.js"
+#~ msgstr "Législation sur les cookies & RGPD - tarteaucitron.js"
+
+#~ msgid "For use in your content"
+#~ msgstr "Pour utiliser dans vos contenus"
+
+#~ msgid "Placez des widgets en dessous de vos articles et pages."
+#~ msgstr "Place des widgets en dessous de vos articles et pages."

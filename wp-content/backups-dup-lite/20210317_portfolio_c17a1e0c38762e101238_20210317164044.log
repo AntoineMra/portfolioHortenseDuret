@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 17 March 2021 16h41
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.0
+WORDPRESS:	5.7
+PHP INFO:	7.3.21 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Win64) PHP/7.3.21 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: 20210317_portfolio_c17a1e0c38762e101238_20210317164044_database.sql
+SQL FILE SIZE: 6.47MB (6781421)
+SQL FILE TIME: 2021-03-17 16:41:13
+SQL RUNTIME: 1.27 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/portfolio
+ARCHIVE FILE: 20210317_portfolio_c17a1e0c38762e101238_20210317164044_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	185.84MB
+STATS:	Dirs 1,016 | Files 5,940
+SQL ADDED: 20210317_portfolio_c17a1e0c38762e101238_20210317164044_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6956
+    [filename] => C:\wamp64\www\portfolio\wp-content\backups-dup-lite\tmp\20210317_portfolio_c17a1e0c38762e101238_20210317164044_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 6955
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 90.39MB
+ARCHIVE RUNTIME: 18.96 sec.
+MEMORY STACK: 4MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/wamp64/www/portfolio/wp-content/backups-dup-lite/tmp/20210317_portfolio_c17a1e0c38762e101238_20210317164044_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 6.47MB
+INSTALLER FILE: 63.95KB
+ARCHIVE FILE: 91.92MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 6,956
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 6,955
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 22.67 sec.
+PEAK PHP MEMORY USED: 4MB
+DONE PROCESSING => 20210317_portfolio 17 March 2021 16h41
+

@@ -1,0 +1,80 @@
+# Translation of Plugins - tarteaucitron.js &#8211; Cookies legislation &amp; GDPR - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - tarteaucitron.js &#8211; Cookies legislation &amp; GDPR - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-25 22:20:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - tarteaucitron.js &#8211; Cookies legislation &amp; GDPR - Development (trunk)\n"
+
+#. Description of the plugin
+msgid "Comply with the Cookies and GDPR legislation."
+msgstr "Se conformer à la législation sur les cookies et le RGPD."
+
+#: Widgets.php:13
+msgid "Add services"
+msgstr "Ajouter des services"
+
+#: Sidebars.php:115
+msgid "For use with page and theme builder"
+msgstr "Pour utiliser avec un constructeur de page"
+
+#: Sidebars.php:114
+msgid "Unassigned"
+msgstr "Non affecté"
+
+#: Sidebars.php:103
+msgid "posts"
+msgstr "articles"
+
+#: Sidebars.php:101
+msgid "all content type except posts"
+msgstr "tout type de contenu sauf les articles"
+
+#: Sidebars.php:97
+msgid "For use after your content"
+msgstr "Pour utiliser après vos contenus"
+
+#: Sidebars.php:96
+msgid "After"
+msgstr "Après"
+
+#: Sidebars.php:94
+msgid "For use before your content"
+msgstr "Pour utiliser avant vos contenus"
+
+#: Sidebars.php:93
+msgid "Before"
+msgstr "Avant"
+
+#: Admin.php:113
+msgid "Invisible services (analytics, APIs, ...) are on this page, the others (social network, comment, ads ...) need to be added with <b><a href=\"widgets.php\">WordPress Widgets</a></b>"
+msgstr "Les services invisibles (mesure d’audience, APIs, …) sont présents sur cette page, les autres (réseaux sociaux, régies publicitaires, …) sont à ajouter via <b><a href=\"widgets.php\">les Widgets WordPress</a></b>"
+
+#: Admin.php:105
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: Admin.php:105
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: Admin.php:94
+msgid "Subscription expired (limited to 3 services)"
+msgstr "Abonnement expiré (limité à 3 services)"
+
+#: Admin.php:92
+msgid "Subscription active"
+msgstr "Abonnement actif"
+
+#: Admin.php:66
+msgid "Login"
+msgstr "Connexion"
+
+#: Admin.php:79
+msgid "Sign up"
+msgstr "Inscription"
